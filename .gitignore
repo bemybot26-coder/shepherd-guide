@@ -1,0 +1,7 @@
+node_modules/
+.docusaurus/
+build/
+_source-guide/
+_source-dashboard/
+_source-whatsapp/
+.env

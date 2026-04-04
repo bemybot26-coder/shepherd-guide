@@ -1,0 +1,27 @@
+/**
+ * Shepherd Help Center — Custom CSS
+ * Brand: #2D5A3D (dark green) / #D4A853 (gold)
+ */
+
+:root {
+  --ifm-color-primary: #2D5A3D;
+  --ifm-color-primary-dark: #274f36;
+  --ifm-color-primary-darker: #254b33;
+  --ifm-color-primary-darkest: #1e3d29;
+  --ifm-color-primary-light: #336544;
+  --ifm-color-primary-lighter: #356947;
+  --ifm-color-primary-lightest: #3d7752;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #D4A853;
+  --ifm-color-primary-dark: #cc9e45;
+  --ifm-color-primary-darker: #c8963e;
+  --ifm-color-primary-darkest: #b07d2e;
+  --ifm-color-primary-light: #d8b262;
+  --ifm-color-primary-lighter: #dab769;
+  --ifm-color-primary-lightest: #e1c582;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
