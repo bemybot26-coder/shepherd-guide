@@ -5,3 +5,4 @@ _source-guide/
 _source-dashboard/
 _source-whatsapp/
 .env
+.vercel

@@ -31,7 +31,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/bemybot26-coder/shepherd-guide/tree/main/',
         },
         blog: false,
         theme: {
@@ -47,9 +46,9 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Shepherd Guide',
+      title: '',
       logo: {
-        alt: 'Shepherd ChMS Logo',
+        alt: 'Shepherd Help Center',
         src: 'img/logo.svg',
       },
       items: [
@@ -61,12 +60,7 @@ const config: Config = {
         },
         {
           href: 'https://get-shepherd.net',
-          label: 'Shepherd App',
-          position: 'right',
-        },
-        {
-          href: 'https://github.com/bemybot26-coder/shepherd-guide',
-          label: 'GitHub',
+          label: 'Go to App →',
           position: 'right',
         },
       ],
@@ -94,7 +88,7 @@ const config: Config = {
           title: 'More',
           items: [
             {label: 'Shepherd App', href: 'https://get-shepherd.net'},
-            {label: 'GitHub', href: 'https://github.com/bemybot26-coder/shepherd-guide'},
+            {label: 'Contact Support', href: 'mailto:support@get-shepherd.net'},
           ],
         },
       ],
