@@ -16,7 +16,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "📋 Attendance",
-      items: ["attendance/tracking"],
+      items: ["attendance/tracking", "attendance/insights"],
     },
     {
       type: "category",
@@ -41,7 +41,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "⚙️ Administration",
-      items: ["admin/settings", "admin/elections", "admin/tasks", "admin/roles"],
+      items: ["admin/settings", "admin/elections", "admin/leadership", "admin/live-sessions", "admin/tasks", "admin/roles"],
     },
   ],
 };
