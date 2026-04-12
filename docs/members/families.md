@@ -48,9 +48,15 @@ The family is created with no members yet. Add members in the next step.
 
 ## Adding Members to a Family
 
+You can add either:
+- a **registered member** who already exists in the member directory, or
+- an **unregistered person** who belongs to the household but should not yet have a full church member profile.
+
 1. Open the family card → click **+ Member**
-2. Search for the member by name
-3. Assign their **role** in the family:
+2. Choose whether you are adding a **Registered Member** or an **Unregistered Person**
+3. If registered, search for the member by name
+4. If unregistered, enter their basic details directly in the form
+5. Assign their **role** in the family:
 
 | Role | Use |
 |---|---|
@@ -62,11 +68,27 @@ The family is created with no members yet. Add members in the next step.
 | **Relative** | Other relative |
 | **Other** | Any other relationship |
 
-4. Click **Add**
+6. Click **Add**
 
 Repeat for each family member. You can add as many members as needed.
 
-> 💡 A member who is already in another family will need to be removed from that family first.
+> 💡 A registered member who is already in another family will need to be removed from that family first.
+
+### When to use an unregistered person
+
+Use an unregistered household entry when you want to reflect the real family structure without adding someone to the church directory yet.
+
+Common examples:
+- a spouse who does not attend your church
+- a child who has not yet been registered as a member
+- a relative living in the home temporarily
+- a family member you want visible for pastoral context, but not as an active member record
+
+Unregistered people:
+- appear inside the household record
+- are marked as **Unregistered**
+- do **not** become full members automatically
+- do **not** appear as normal member profiles in the directory until you create a proper member record for them
 
 ---
 
@@ -78,6 +100,8 @@ Each family card shows:
 - List of members with their role and phone number
 
 Click on a family to expand it and see the full member list with roles.
+
+If a household includes people who are not in the church directory yet, Shepherd labels them as **Unregistered** so your team can tell the difference immediately.
 
 ---
 
@@ -96,6 +120,8 @@ Click on a family to expand it and see the full member list with roles.
 3. Confirm
 
 The member is not deleted from your database — they are simply unlinked from this household.
+
+The same is true for unregistered household entries: removing them only removes them from the household record.
 
 ---
 
@@ -123,3 +149,4 @@ Deleting a family does not delete the members — it only removes the household 
 - ✅ **Add a phone number to the family** — useful when the household has a shared/home phone
 - ✅ **Use Notes for family-level context** — e.g. "Lost father in 2024, mother is primary carer"
 - ✅ **Link children to their parents' family** — it helps with kids/youth ministry tracking
+- ✅ **Use unregistered household entries sparingly and intentionally** — they are best for family visibility, not for replacing proper member registration

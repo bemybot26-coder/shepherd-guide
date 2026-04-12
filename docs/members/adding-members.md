@@ -22,6 +22,8 @@ This guide explains how to add new members to Shepherd, import an existing list,
 
 The member will appear immediately in your directory and can be assigned to groups.
 
+> Need someone connected to a household without adding them to the full directory yet? Use the **Families** module and add them as an **Unregistered Person** instead of creating a full member record.
+
 ## Importing Members in Bulk
 
 If you're migrating from another system or have an existing spreadsheet:
@@ -56,6 +58,10 @@ When a member leaves the church or is no longer active:
 - **Delete** — Permanently removes the record. Use with caution; this action cannot be undone.
 
 To archive a member: Open their profile → click **Actions** → **Archive Member**.
+
+## Kids and First-Timer Notifications
+
+If you add a child through the kids workflow, Shepherd will create the child record without triggering a first-timer notification by mistake. This helps keep first-time guest alerts focused on actual visitor follow-up.
 
 ## Recording a New Convert
 

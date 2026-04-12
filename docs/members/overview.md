@@ -153,6 +153,8 @@ Members can be linked together as a **household** (family unit):
 3. Click **Add to Household** or **Create New Household**
 4. Link other family members
 
+You can also add an **unregistered household person** when someone belongs to the family structure but should not yet be added to the main member directory.
+
 This is useful for tracking families and sending family-level communications.
 
 ---
