@@ -7,6 +7,8 @@ sidebar_position: 1
 
 The **Messages** module is how you communicate with your congregation. Shepherd supports three channels: **WhatsApp**, **SMS**, and **Email**. You can send a quick message to a group of members, run a scheduled broadcast, or save reusable message templates.
 
+If you need to share a curated member or family page instead of sending a plain broadcast, see **[Profile Sharing](./profile-sharing)**.
+
 Go to **Messages** in the sidebar.
 
 :::info Screenshot

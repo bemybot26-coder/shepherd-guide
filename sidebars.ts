@@ -31,7 +31,7 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "💬 Communication",
-      items: ["communication/messaging", "communication/whatsapp-bot"],
+      items: ["communication/messaging", "communication/profile-sharing", "communication/whatsapp-bot"],
     },
     {
       type: "category",

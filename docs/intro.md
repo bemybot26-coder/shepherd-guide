@@ -20,6 +20,7 @@ Whether you are setting up your church for the first time, onboarding new staff,
 - 🤝 [Groups & Cells](groups/overview) — Organise your congregation into ministries and cells
 - 🙏 [Pastoral Care](pastoral/care) — Prayer, visits, appointments, and follow-up
 - 💬 [Messages & Broadcasts](communication/messaging) — Reach your members via WhatsApp and SMS
+- 🔗 [Profile Sharing](communication/profile-sharing) — Create safe share pages for members and families
 - 💰 [Giving](giving/overview) — Record and track offerings and donations
 - 🤖 [WhatsApp Bot](communication/whatsapp-bot) — Commands your members can use on WhatsApp
 - 🗳️ [Elections](admin/elections) — Run transparent church elections
