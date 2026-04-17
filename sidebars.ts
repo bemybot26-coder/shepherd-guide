@@ -35,6 +35,11 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: "category",
+      label: "📝 Requests",
+      items: ["requests/overview"],
+    },
+    {
+      type: "category",
       label: "💰 Finance",
       items: ["giving/overview", "giving/pledges", "giving/events", "giving/reports"],
     },
